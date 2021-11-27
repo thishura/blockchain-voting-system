@@ -1,0 +1,1 @@
+export const CandidatesList = ["Vladimir Putin","Emmanuel Macron", "Volodymyr Zelenskyy"];

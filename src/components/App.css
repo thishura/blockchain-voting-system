@@ -1,0 +1,38 @@
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+.candidate-id{
+    font-size: 28px;
+}
+.candidate-name{
+    margin: 15px;
+    font-size: 24px;
+}
+.description{
+
+
+}
+.candidate{
+    box-sizing: border-box;
+    background-color: #e5eeff;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+
+}
+.container{
+    margin-top: 10%;
+    width: 100%;
+    max-width: 1200px;
+}
+.candidate input{
+    margin: 15px;
+    transform : scale(2);
+}
+.vote-button{
+    margin-top: 40px;
+}
+.candidate span{
+    width: 140px;
+    height: 72px;
+}
